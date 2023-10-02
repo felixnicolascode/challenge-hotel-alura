@@ -29,12 +29,8 @@
 
 ---
 
-🧡 <strong>Oracle</strong></br>
-<a href="https://www.linkedin.com/company/oracle/" target="_blank">
+
 🧡 <strong>Felix N. Morales</strong></br>
-<a href="[https://www.linkedin.com/company/oracle/](https://www.linkedin.com/in/felix-n-morales/)" target="_blank">
+<a href="https://www.linkedin.com/in/felix-n-morales" target="_blank">
 <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
-💙 <strong>Alura Latam</strong></br>
-<a href="https://www.linkedin.com/company/alura-latam/mycompany/" target="_blank">
-<img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
